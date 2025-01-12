@@ -113,10 +113,11 @@ main {
 
 .info {
     display: flex;
-    list-style-type: none;
+    
 }
 
 .info li {
+    list-style-type: none;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
