@@ -39,7 +39,7 @@ header {
 .navigation {
     display: flex;
     gap: 3rem;
-    font-size: 18px;
+    font-size: 1.125rem;
     color: #e5e7eb;
 }
 
@@ -66,15 +66,15 @@ header {
 }
 
 .intro h1 {
-    font-size: 48px;
+    font-size: 3rem;
     margin-bottom: 0;
 }
 
 .intro p {
     margin-top: 0;
-    font-size: 15px;
+    font-size: .9rem;
     color: #e5e7eb;
-    margin-bottom: 25px;
+    margin-bottom: 1.563rem;
 }
 
 .intro a {
@@ -82,7 +82,7 @@ header {
    padding: 10px 25px;
    margin-top: 20px;
    border-radius: 6px;
-   font-size: 18px;
+   font-size: 1.125rem;
    font-weight: 900;
 }
 
