@@ -52,7 +52,8 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    margin-top: 5rem;
+    margin-top: 4rem;
+    padding-bottom: 5rem;
 }
 
 .intro {
@@ -89,8 +90,41 @@ header {
 }
 
 
+/* MAIN */
 
+main {
+    background-color: white;
+    color: #1f2937;
+}
 
+.section1 {
+    max-width: 70vw;
+    margin: 0 auto;
+    text-align: center;
+    padding: 40px 0;
+}
+
+.section1 h2 {
+    margin-bottom: 60px;
+    font-size: 2rem;
+    font-weight: 900;
+}
+
+.info {
+    display: flex;
+    list-style-type: none;
+}
+
+.info li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.info p {
+    width: 60%;
+    text-align: center;
+}
 
 .reviews {
     background-color: #e5E7eb;
